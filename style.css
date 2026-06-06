@@ -1,0 +1,25 @@
+body {
+  font-family: Arial;
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+}
+
+.avatar {
+  width: 150px;
+  border-radius: 50%;
+}
+
+section {
+  margin-top: 40px;
+}
+
+.project {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-top: 10px;
+}
